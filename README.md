@@ -1,7 +1,7 @@
 - 👋 Hi, I’m suh :)
 - 👀 I’m interested in building cool and innovative projects
-- 🌱 I’m currently learning c++, python, HTML, CSS
-- 💞️ I’m looking to collaborate on projects that could possibly turn into a start-up???
+- 🌱 I’m currently learning c++, python, html, css and javascript
+- 💞️ I’m looking to collaborate on projects that are unique and fun
 - 📫 How to reach me: i'll update this later lol
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my fav app is pinterest!
